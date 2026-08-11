@@ -1,4 +1,4 @@
-public class p1 {
+public class p11 {
 
     interface Animal {
         void sound();
