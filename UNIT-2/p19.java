@@ -12,7 +12,7 @@ class Sunflower extends Flower {
     }
 }
 
-public class p9 {
+public class p19 {
     public static void main(String[] args) {
 
         Sunflower f = new Sunflower();
