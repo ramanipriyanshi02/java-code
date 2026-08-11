@@ -1,4 +1,4 @@
-public class p2 {
+public class p12 {
 
     interface Animal {
         void eat();
