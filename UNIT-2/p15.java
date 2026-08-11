@@ -1,4 +1,4 @@
-public class p5 {
+public class p15 {
     public static void main(String[] args) {
         Dog d = new Dog();
         Cat c = new Cat();
